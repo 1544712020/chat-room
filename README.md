@@ -3,25 +3,16 @@
 #### 介绍
 使用jsp+servlet写的聊天室
 
-#### 软件架构
-软件架构说明
+#### 登录页面
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1226/143929_49f8531e_6533994.png "屏幕截图.png")
 
+#### 聊天页面
 
-#### 安装教程
+管理员用户：
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1226/144015_1b5d84a7_6533994.png "屏幕截图.png")
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+普通用户：
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1226/144114_01bdaaeb_6533994.png "屏幕截图.png")
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+对话界面：
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1226/144216_fb908a1a_6533994.png "屏幕截图.png")
